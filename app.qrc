@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>statics/qss/green.qss</file>
+        <file>statics/icon/app.ico</file>
+        <file>statics/ts/qt_zh_CN.qm</file>
+    </qresource>
+</RCC>
